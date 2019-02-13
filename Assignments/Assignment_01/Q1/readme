@@ -1,0 +1,20 @@
+Write a simple program in C++ to display the output below exactly as shown 
+(i.e., it should inlcude white space to position the pyramid toward the right, as shown). 
+>./a.out
+                   *             
+                  ^^^
+                 *****
+                ^^^^^^^
+               *********
+              ^^^^^^^^^^^
+Important: You are not allowed to use a "string" (or a character string literal) data type in your code. 
+So DO NOT take an apporach similar to the following:
+
+cout << "*" << endl;
+cout << "       ^^^" << endl;
+cout << "      *****" << endl;
+
+Instead, use a for loop or a while loop to print various characters. 
+Observe that the first line contains 1 char, the second line contains 3 chars, the third line contains 5 chars, etc. 
+Also, the characters alternate from one line to another. 
+Use these observations to your advantage in framing your logic inside your for/while loop.
