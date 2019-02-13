@@ -7,6 +7,7 @@ Write a simple program in C++ to display the output below exactly as shown
                 ^^^^^^^
                *********
               ^^^^^^^^^^^
+              
 Important: You are not allowed to use a "string" (or a character string literal) data type in your code. 
 So DO NOT take an apporach similar to the following:
 
